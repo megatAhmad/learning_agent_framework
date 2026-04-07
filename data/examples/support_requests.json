@@ -1,0 +1,17 @@
+[
+  {
+    "id": 1,
+    "category": "technical",
+    "message": "My notebook cannot import agent_framework."
+  },
+  {
+    "id": 2,
+    "category": "billing",
+    "message": "How do we track monthly model spend?"
+  },
+  {
+    "id": 3,
+    "category": "general",
+    "message": "What is the learning path for this course?"
+  }
+]

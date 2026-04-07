@@ -1,0 +1,3 @@
+Async programming is useful when tasks spend time waiting on network or file I/O. With async and await,
+one coroutine can yield control while another continues, which improves throughput for concurrency-heavy
+systems such as API-backed tools, retrieval pipelines, and orchestration loops.

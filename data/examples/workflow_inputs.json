@@ -1,0 +1,14 @@
+[
+  {
+    "topic": "agent tools",
+    "audience": "engineers"
+  },
+  {
+    "topic": "rag pipelines",
+    "audience": "platform teams"
+  },
+  {
+    "topic": "human approvals",
+    "audience": "security reviewers"
+  }
+]

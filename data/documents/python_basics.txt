@@ -1,0 +1,4 @@
+Python is a general-purpose programming language known for readability, batteries-included tooling,
+and a large ecosystem. Functions, modules, and objects make it a practical language for building
+scripts, services, data workflows, and agent applications. Python's async features let developers
+coordinate network-bound tasks without blocking the whole program.

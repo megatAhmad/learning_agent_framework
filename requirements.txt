@@ -1,0 +1,14 @@
+agent-framework-core==1.0.0
+agent-framework-openai==1.0.0
+aiohttp>=3.10,<4
+azure-identity>=1.25,<2
+ipykernel>=6.29,<7
+jupyter>=1.1,<2
+nbformat>=5.10,<6
+nbval>=0.11,<0.12
+numpy>=1.26,<3
+openai>=2.30,<3
+pandas>=2.2,<3
+python-dotenv>=1.0,<2
+pytest>=8.3,<10
+scikit-learn>=1.5,<2

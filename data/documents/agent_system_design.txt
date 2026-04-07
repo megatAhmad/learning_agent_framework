@@ -1,0 +1,3 @@
+Agent systems become more reliable when prompts, tools, memory, and orchestration are designed as
+separate concerns. Tools reduce hallucination for deterministic operations. Memory helps personalize
+behavior over time. Workflows and orchestration make control flow explicit and easier to debug.
